@@ -1,0 +1,7984 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BOBF objname="ZALICE">
+ 
+ 
+ <?xml version="1.0" encoding="utf-8"?>
+ 
+ 
+ 
+ <transport>
+  
+  
+  <lastChangeAt>20160212155610</lastChangeAt>
+  
+  
+  <table ID="/BOBF/ACT_CONF">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35AF50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35AD50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35BB50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B950B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35BF50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35BD50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/ACT_LIST">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CAT">
+     
+     
+     <![CDATA[3]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_NAME">
+     
+     
+     <![CDATA[LOCK_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_ESR_NAME"/>
+    
+    
+    <field ID="ACT_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CARDINALITY">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_LIB_A_LOCK]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="PARAM_DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_LOCK_PARAMETERS]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="EDIT_MODE"/>
+    
+    
+    <field ID="EXEC_ONLY_ALL"/>
+    
+    
+    <field ID="MSGID_SUCCESS"/>
+    
+    
+    <field ID="MSGNO_SUCCESS"/>
+    
+    
+    <field ID="MSGID_ERROR"/>
+    
+    
+    <field ID="MSGNO_ERROR"/>
+    
+    
+    <field ID="MSGID_CHECK"/>
+    
+    
+    <field ID="MSGNO_CHECK"/>
+    
+    
+    <field ID="ALIAS_ACTION"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="PREPARE_IMPL"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field ID="CHK_ACT_ALSO_INT"/>
+    
+    
+    <field ID="BASE_ACTION_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CAT">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_NAME">
+     
+     
+     <![CDATA[UNLOCK_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_ESR_NAME"/>
+    
+    
+    <field ID="ACT_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CARDINALITY">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_LIB_A_LOCK]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="PARAM_DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_LOCK_PARAMETERS]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="EDIT_MODE"/>
+    
+    
+    <field ID="EXEC_ONLY_ALL"/>
+    
+    
+    <field ID="MSGID_SUCCESS"/>
+    
+    
+    <field ID="MSGNO_SUCCESS"/>
+    
+    
+    <field ID="MSGID_ERROR"/>
+    
+    
+    <field ID="MSGNO_ERROR"/>
+    
+    
+    <field ID="MSGID_CHECK"/>
+    
+    
+    <field ID="MSGNO_CHECK"/>
+    
+    
+    <field ID="ALIAS_ACTION"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="PREPARE_IMPL"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field ID="CHK_ACT_ALSO_INT"/>
+    
+    
+    <field ID="BASE_ACTION_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35AD50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CAT">
+     
+     
+     <![CDATA[5]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_NAME">
+     
+     
+     <![CDATA[CREATE_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_ESR_NAME"/>
+    
+    
+    <field ID="ACT_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CARDINALITY">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_CLASS"/>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="EDIT_MODE"/>
+    
+    
+    <field ID="EXEC_ONLY_ALL"/>
+    
+    
+    <field ID="MSGID_SUCCESS"/>
+    
+    
+    <field ID="MSGNO_SUCCESS"/>
+    
+    
+    <field ID="MSGID_ERROR"/>
+    
+    
+    <field ID="MSGNO_ERROR"/>
+    
+    
+    <field ID="MSGID_CHECK"/>
+    
+    
+    <field ID="MSGNO_CHECK"/>
+    
+    
+    <field ID="ALIAS_ACTION"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="PREPARE_IMPL"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field ID="CHK_ACT_ALSO_INT"/>
+    
+    
+    <field ID="BASE_ACTION_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CAT">
+     
+     
+     <![CDATA[4]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_NAME">
+     
+     
+     <![CDATA[UPDATE_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_ESR_NAME"/>
+    
+    
+    <field ID="ACT_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CARDINALITY">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_CLASS"/>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="EDIT_MODE"/>
+    
+    
+    <field ID="EXEC_ONLY_ALL"/>
+    
+    
+    <field ID="MSGID_SUCCESS"/>
+    
+    
+    <field ID="MSGNO_SUCCESS"/>
+    
+    
+    <field ID="MSGID_ERROR"/>
+    
+    
+    <field ID="MSGNO_ERROR"/>
+    
+    
+    <field ID="MSGID_CHECK"/>
+    
+    
+    <field ID="MSGNO_CHECK"/>
+    
+    
+    <field ID="ALIAS_ACTION"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="PREPARE_IMPL"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field ID="CHK_ACT_ALSO_INT"/>
+    
+    
+    <field ID="BASE_ACTION_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CAT">
+     
+     
+     <![CDATA[6]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_NAME">
+     
+     
+     <![CDATA[DELETE_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_ESR_NAME"/>
+    
+    
+    <field ID="ACT_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CARDINALITY">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_CLASS"/>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="EDIT_MODE"/>
+    
+    
+    <field ID="EXEC_ONLY_ALL"/>
+    
+    
+    <field ID="MSGID_SUCCESS"/>
+    
+    
+    <field ID="MSGNO_SUCCESS"/>
+    
+    
+    <field ID="MSGID_ERROR"/>
+    
+    
+    <field ID="MSGNO_ERROR"/>
+    
+    
+    <field ID="MSGID_CHECK"/>
+    
+    
+    <field ID="MSGNO_CHECK"/>
+    
+    
+    <field ID="ALIAS_ACTION"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="PREPARE_IMPL"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field ID="CHK_ACT_ALSO_INT"/>
+    
+    
+    <field ID="BASE_ACTION_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35B950B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CAT">
+     
+     
+     <![CDATA[7]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_NAME">
+     
+     
+     <![CDATA[VALIDATE_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_ESR_NAME"/>
+    
+    
+    <field ID="ACT_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CARDINALITY">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_CLASS"/>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="EDIT_MODE"/>
+    
+    
+    <field ID="EXEC_ONLY_ALL"/>
+    
+    
+    <field ID="MSGID_SUCCESS"/>
+    
+    
+    <field ID="MSGNO_SUCCESS"/>
+    
+    
+    <field ID="MSGID_ERROR"/>
+    
+    
+    <field ID="MSGNO_ERROR"/>
+    
+    
+    <field ID="MSGID_CHECK"/>
+    
+    
+    <field ID="MSGNO_CHECK"/>
+    
+    
+    <field ID="ALIAS_ACTION"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="PREPARE_IMPL"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field ID="CHK_ACT_ALSO_INT"/>
+    
+    
+    <field ID="BASE_ACTION_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35BD50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CAT">
+     
+     
+     <![CDATA[8]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_NAME">
+     
+     
+     <![CDATA[SAVE_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_ESR_NAME"/>
+    
+    
+    <field ID="ACT_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ACT_CARDINALITY">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACT_CLASS"/>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="EDIT_MODE"/>
+    
+    
+    <field ID="EXEC_ONLY_ALL"/>
+    
+    
+    <field ID="MSGID_SUCCESS"/>
+    
+    
+    <field ID="MSGNO_SUCCESS"/>
+    
+    
+    <field ID="MSGID_ERROR"/>
+    
+    
+    <field ID="MSGNO_ERROR"/>
+    
+    
+    <field ID="MSGID_CHECK"/>
+    
+    
+    <field ID="MSGNO_CHECK"/>
+    
+    
+    <field ID="ALIAS_ACTION"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="PREPARE_IMPL"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field ID="CHK_ACT_ALSO_INT"/>
+    
+    
+    <field ID="BASE_ACTION_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/ACT_LISTT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/DET_CONF">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/DET_LIST">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/DET_LISTT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/DET_NET">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_ASSOC">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359B50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_TYPE">
+     
+     
+     <![CDATA[C]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_CAT">
+     
+     
+     <![CDATA[V]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_NAME">
+     
+     
+     <![CDATA[MESSAGE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ASSOC_ESR_NAME"/>
+    
+    
+    <field ID="ASSOC_GENIL_NAME"/>
+    
+    
+    <field ID="ASSOC_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SOURCE_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ATTR_NAME_SOURCE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TARGET_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359950B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CARDINALITY">
+     
+     
+     <![CDATA[3 ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="QUERY_KEY"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SECKEYNAME">
+     
+     
+     <![CDATA[PARENT_KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="CHANGE_RESOLVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="ASSOC_RESOLVE"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="ASSOC_MODELED"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359F50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_TYPE">
+     
+     
+     <![CDATA[C]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_CAT">
+     
+     
+     <![CDATA[L]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_NAME">
+     
+     
+     <![CDATA[LOCK]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ASSOC_ESR_NAME"/>
+    
+    
+    <field ID="ASSOC_GENIL_NAME"/>
+    
+    
+    <field ID="ASSOC_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SOURCE_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ATTR_NAME_SOURCE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TARGET_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359D50B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CARDINALITY">
+     
+     
+     <![CDATA[2 ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="QUERY_KEY"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SECKEYNAME">
+     
+     
+     <![CDATA[PARENT_KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="CHANGE_RESOLVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="ASSOC_RESOLVE"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="ASSOC_MODELED"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35AB50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_TYPE">
+     
+     
+     <![CDATA[C]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_CAT">
+     
+     
+     <![CDATA[F]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_NAME">
+     
+     
+     <![CDATA[PROPERTY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ASSOC_ESR_NAME"/>
+    
+    
+    <field ID="ASSOC_GENIL_NAME"/>
+    
+    
+    <field ID="ASSOC_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SOURCE_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ATTR_NAME_SOURCE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TARGET_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A950B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="PARAM_DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_C_PROPERTY]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CARDINALITY">
+     
+     
+     <![CDATA[3 ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="QUERY_KEY"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SECKEYNAME">
+     
+     
+     <![CDATA[PARENT_KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="CHANGE_RESOLVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="ASSOC_RESOLVE"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="ASSOC_MODELED"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35C150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_TYPE">
+     
+     
+     <![CDATA[A]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_CAT">
+     
+     
+     <![CDATA[P]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_NAME">
+     
+     
+     <![CDATA[TO_PARENT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ASSOC_ESR_NAME"/>
+    
+    
+    <field ID="ASSOC_GENIL_NAME"/>
+    
+    
+    <field ID="ASSOC_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SOURCE_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359950B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ATTR_NAME_SOURCE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TARGET_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CARDINALITY">
+     
+     
+     <![CDATA[2 ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="QUERY_KEY"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SECKEYNAME">
+     
+     
+     <![CDATA[KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="CHANGE_RESOLVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_RESOLVE">
+     
+     
+     <![CDATA[1]]>
+     
+    
+    </field>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="ASSOC_MODELED"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35C350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_TYPE">
+     
+     
+     <![CDATA[A]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_CAT">
+     
+     
+     <![CDATA[P]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_NAME">
+     
+     
+     <![CDATA[TO_PARENT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ASSOC_ESR_NAME"/>
+    
+    
+    <field ID="ASSOC_GENIL_NAME"/>
+    
+    
+    <field ID="ASSOC_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SOURCE_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359D50B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ATTR_NAME_SOURCE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TARGET_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CARDINALITY">
+     
+     
+     <![CDATA[2 ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="QUERY_KEY"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SECKEYNAME">
+     
+     
+     <![CDATA[KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="CHANGE_RESOLVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_RESOLVE">
+     
+     
+     <![CDATA[1]]>
+     
+    
+    </field>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="ASSOC_MODELED"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35C550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_TYPE">
+     
+     
+     <![CDATA[A]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_CAT">
+     
+     
+     <![CDATA[P]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_NAME">
+     
+     
+     <![CDATA[TO_PARENT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ASSOC_ESR_NAME"/>
+    
+    
+    <field ID="ASSOC_GENIL_NAME"/>
+    
+    
+    <field ID="ASSOC_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SOURCE_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A950B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ATTR_NAME_SOURCE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TARGET_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CARDINALITY">
+     
+     
+     <![CDATA[2 ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="QUERY_KEY"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SECKEYNAME">
+     
+     
+     <![CDATA[KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="CHANGE_RESOLVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_RESOLVE">
+     
+     
+     <![CDATA[1]]>
+     
+    
+    </field>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="ASSOC_MODELED"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE83759B7D3517]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_TYPE">
+     
+     
+     <![CDATA[A]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_CAT">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_NAME">
+     
+     
+     <![CDATA[BOB]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ASSOC_ESR_NAME"/>
+    
+    
+    <field ID="ASSOC_GENIL_NAME"/>
+    
+    
+    <field ID="ASSOC_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SOURCE_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ATTR_NAME_SOURCE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TARGET_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE83759B7D1517]]>
+     
+    
+    </field>
+    
+    
+    <field ID="PARAM_DATA_TYPE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CARDINALITY">
+     
+     
+     <![CDATA[3 ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="QUERY_KEY"/>
+    
+    
+    <field ID="SECKEYNAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_RESOLVE">
+     
+     
+     <![CDATA[3]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="ESR_PARAM_DATA_T"/>
+    
+    
+    <field ID="ASSOC_RESOLVE"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="ASSOC_MODELED"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="TD_CONTAINER_VAR"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212103413 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_ASSOCC">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONF_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE91D9EAD91523]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE83759B7D3517]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_ASSOCT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_BO">
+   
+   
+   <key>
+    
+    
+    <BO_NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </BO_NAME>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="BO_DELETED"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="SUPER_BO_KEY"/>
+    
+    
+    <field ID="EXTENSION_KEY"/>
+    
+    
+    <field ID="BO_GENERATED"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJCAT">
+     
+     
+     <![CDATA[0]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CUSTOMER_BO">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field ID="BO_ESR_NAME"/>
+    
+    
+    <field ID="SUPER_BO_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_GROUP">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_GROUPC">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_GROUPT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_MAP">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_NCAT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_NAME">
+     
+     
+     <![CDATA[ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="STATUS_SCHEMA"/>
+    
+    
+    <field ID="STAT_SCHEMA_KEY"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_NCATT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_NODE">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJ_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_NAME">
+     
+     
+     <![CDATA[ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_ESR_NAME"/>
+    
+    
+    <field ID="NODE_ESR_PREFIX"/>
+    
+    
+    <field ID="NODE_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TYPE">
+     
+     
+     <![CDATA[ZALICE_S_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_DATA_TYPE">
+     
+     
+     <![CDATA[ZALICE_S_ROOT_D]]>
+     
+    
+    </field>
+    
+    
+    <field ID="DATA_DATA_TYPE_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TABLE_TYPE">
+     
+     
+     <![CDATA[ZALICE_T_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field ID="GDT_DATA_TYPE"/>
+    
+    
+    <field ID="PRX_DAT_DAT_TYPE"/>
+    
+    
+    <field ID="EXT_INCL_NAME"/>
+    
+    
+    <field ID="EXT_INCL_NAME_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATABASE_TABLE">
+     
+     
+     <![CDATA[ZALICE_D_ROOT]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_TYPE">
+     
+     
+     <![CDATA[N]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_CAT_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359750B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="SP_ID_MAP_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="BUF_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_BUF_SIMPLE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="MAPPER_CLASS"/>
+    
+    
+    <field ID="DELEGATION_CLASS"/>
+    
+    
+    <field ID="LCP_WRAP_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="LOADABLE">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="LOCKABLE">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field ID="TRANSIENT"/>
+    
+    
+    <field ID="SUBTREE_PROPERTY"/>
+    
+    
+    <field ID="KEY_INHERITED"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="NODE_CLASS"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_CREATE_S"/>
+    
+    
+    <field ID="ALIAS_UPDATE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="KEY_SECKEYNAME"/>
+    
+    
+    <field ID="ROOT_SECKEYNAME"/>
+    
+    
+    <field ID="STA_CHILD_ASSOC"/>
+    
+    
+    <field ID="STA_PARENT_ASSOC"/>
+    
+    
+    <field ID="REF_BO_KEY"/>
+    
+    
+    <field ID="REF_NODE_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field ID="AUTH_CHECK_CLASS"/>
+    
+    
+    <field ID="AUTH_CHECK_RELEVANT"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359950B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJ_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_NAME">
+     
+     
+     <![CDATA[ROOT_MESSAGE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_ESR_NAME"/>
+    
+    
+    <field ID="NODE_ESR_PREFIX"/>
+    
+    
+    <field ID="NODE_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_MESSAGE_K]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_MESSAGE_D]]>
+     
+    
+    </field>
+    
+    
+    <field ID="DATA_DATA_TYPE_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TABLE_TYPE">
+     
+     
+     <![CDATA[/BOBF/T_FRW_MESSAGE_K]]>
+     
+    
+    </field>
+    
+    
+    <field ID="GDT_DATA_TYPE"/>
+    
+    
+    <field ID="PRX_DAT_DAT_TYPE"/>
+    
+    
+    <field ID="EXT_INCL_NAME"/>
+    
+    
+    <field ID="EXT_INCL_NAME_T"/>
+    
+    
+    <field ID="DATABASE_TABLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_TYPE">
+     
+     
+     <![CDATA[V]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_CAT_KEY"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="SP_ID_MAP_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="BUF_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_LIB_B_MESSAGE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="MAPPER_CLASS"/>
+    
+    
+    <field ID="DELEGATION_CLASS"/>
+    
+    
+    <field ID="LCP_WRAP_CLASS"/>
+    
+    
+    <field ID="LOADABLE"/>
+    
+    
+    <field ID="LOCKABLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TRANSIENT">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field ID="SUBTREE_PROPERTY"/>
+    
+    
+    <field ID="KEY_INHERITED"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="NODE_CLASS"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_CREATE_S"/>
+    
+    
+    <field ID="ALIAS_UPDATE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="KEY_SECKEYNAME">
+     
+     
+     <![CDATA[KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ROOT_SECKEYNAME"/>
+    
+    
+    <field ID="STA_CHILD_ASSOC"/>
+    
+    
+    <field ID="STA_PARENT_ASSOC"/>
+    
+    
+    <field ID="REF_BO_KEY"/>
+    
+    
+    <field ID="REF_NODE_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field ID="AUTH_CHECK_CLASS"/>
+    
+    
+    <field ID="AUTH_CHECK_RELEVANT"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359D50B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJ_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_NAME">
+     
+     
+     <![CDATA[ROOT_LOCK]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_ESR_NAME"/>
+    
+    
+    <field ID="NODE_ESR_PREFIX"/>
+    
+    
+    <field ID="NODE_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_LOCK_NODE]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_LOCK_NODE_DATA]]>
+     
+    
+    </field>
+    
+    
+    <field ID="DATA_DATA_TYPE_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TABLE_TYPE">
+     
+     
+     <![CDATA[/BOBF/T_FRW_LOCK_NODE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="GDT_DATA_TYPE"/>
+    
+    
+    <field ID="PRX_DAT_DAT_TYPE"/>
+    
+    
+    <field ID="EXT_INCL_NAME"/>
+    
+    
+    <field ID="EXT_INCL_NAME_T"/>
+    
+    
+    <field ID="DATABASE_TABLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_TYPE">
+     
+     
+     <![CDATA[L]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_CAT_KEY"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="SP_ID_MAP_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="BUF_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_LIB_B_LOCK]]>
+     
+    
+    </field>
+    
+    
+    <field ID="MAPPER_CLASS"/>
+    
+    
+    <field ID="DELEGATION_CLASS"/>
+    
+    
+    <field ID="LCP_WRAP_CLASS"/>
+    
+    
+    <field ID="LOADABLE"/>
+    
+    
+    <field ID="LOCKABLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TRANSIENT">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field ID="SUBTREE_PROPERTY"/>
+    
+    
+    <field ID="KEY_INHERITED"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="NODE_CLASS"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_CREATE_S"/>
+    
+    
+    <field ID="ALIAS_UPDATE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="KEY_SECKEYNAME">
+     
+     
+     <![CDATA[KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ROOT_SECKEYNAME"/>
+    
+    
+    <field ID="STA_CHILD_ASSOC"/>
+    
+    
+    <field ID="STA_PARENT_ASSOC"/>
+    
+    
+    <field ID="REF_BO_KEY"/>
+    
+    
+    <field ID="REF_NODE_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field ID="AUTH_CHECK_CLASS"/>
+    
+    
+    <field ID="AUTH_CHECK_RELEVANT"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B35A950B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJ_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_NAME">
+     
+     
+     <![CDATA[ROOT_PROPERTY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_ESR_NAME"/>
+    
+    
+    <field ID="NODE_ESR_PREFIX"/>
+    
+    
+    <field ID="NODE_GENIL_NAME"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_PROPERTY_K]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_DATA_TYPE">
+     
+     
+     <![CDATA[/BOBF/S_FRW_PROPERTY_D]]>
+     
+    
+    </field>
+    
+    
+    <field ID="DATA_DATA_TYPE_T"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="DATA_TABLE_TYPE">
+     
+     
+     <![CDATA[/BOBF/T_FRW_PROPERTY_K]]>
+     
+    
+    </field>
+    
+    
+    <field ID="GDT_DATA_TYPE"/>
+    
+    
+    <field ID="PRX_DAT_DAT_TYPE"/>
+    
+    
+    <field ID="EXT_INCL_NAME"/>
+    
+    
+    <field ID="EXT_INCL_NAME_T"/>
+    
+    
+    <field ID="DATABASE_TABLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_TYPE">
+     
+     
+     <![CDATA[F]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_CAT_KEY"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="SP_ID_MAP_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="BUF_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_LIB_B_PROPERTY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="MAPPER_CLASS"/>
+    
+    
+    <field ID="DELEGATION_CLASS"/>
+    
+    
+    <field ID="LCP_WRAP_CLASS"/>
+    
+    
+    <field ID="LOADABLE"/>
+    
+    
+    <field ID="LOCKABLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="TRANSIENT">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field ID="SUBTREE_PROPERTY"/>
+    
+    
+    <field ID="KEY_INHERITED"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="NODE_CLASS"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_CREATE_S"/>
+    
+    
+    <field ID="ALIAS_UPDATE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="KEY_SECKEYNAME">
+     
+     
+     <![CDATA[KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ROOT_SECKEYNAME"/>
+    
+    
+    <field ID="STA_CHILD_ASSOC"/>
+    
+    
+    <field ID="STA_PARENT_ASSOC"/>
+    
+    
+    <field ID="REF_BO_KEY"/>
+    
+    
+    <field ID="REF_NODE_KEY"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field ID="AUTH_CHECK_CLASS"/>
+    
+    
+    <field ID="AUTH_CHECK_RELEVANT"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE83759B7D1517]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJ_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_NAME">
+     
+     
+     <![CDATA[BOB]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_ESR_NAME"/>
+    
+    
+    <field ID="NODE_ESR_PREFIX"/>
+    
+    
+    <field ID="NODE_GENIL_NAME"/>
+    
+    
+    <field ID="DATA_TYPE"/>
+    
+    
+    <field ID="DATA_DATA_TYPE"/>
+    
+    
+    <field ID="DATA_DATA_TYPE_T"/>
+    
+    
+    <field ID="DATA_TABLE_TYPE"/>
+    
+    
+    <field ID="GDT_DATA_TYPE"/>
+    
+    
+    <field ID="PRX_DAT_DAT_TYPE"/>
+    
+    
+    <field ID="EXT_INCL_NAME"/>
+    
+    
+    <field ID="EXT_INCL_NAME_T"/>
+    
+    
+    <field ID="DATABASE_TABLE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="NODE_TYPE">
+     
+     
+     <![CDATA[B]]>
+     
+    
+    </field>
+    
+    
+    <field ID="NODE_CAT_KEY"/>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="SP_ID_MAP_CLASS"/>
+    
+    
+    <field ID="BUF_CLASS"/>
+    
+    
+    <field ID="MAPPER_CLASS"/>
+    
+    
+    <field ID="DELEGATION_CLASS"/>
+    
+    
+    <field ID="LCP_WRAP_CLASS"/>
+    
+    
+    <field ID="LOADABLE"/>
+    
+    
+    <field ID="LOCKABLE"/>
+    
+    
+    <field ID="TRANSIENT"/>
+    
+    
+    <field ID="SUBTREE_PROPERTY"/>
+    
+    
+    <field ID="KEY_INHERITED"/>
+    
+    
+    <field ID="USE_PROXY_TYPE"/>
+    
+    
+    <field ID="NODE_CLASS"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE"/>
+    
+    
+    <field ID="ALIAS_RETRIEVE_S"/>
+    
+    
+    <field ID="ALIAS_CREATE_S"/>
+    
+    
+    <field ID="ALIAS_UPDATE_S"/>
+    
+    
+    <field ID="ALIAS_DELETE_S"/>
+    
+    
+    <field ID="KEY_SECKEYNAME"/>
+    
+    
+    <field ID="ROOT_SECKEYNAME"/>
+    
+    
+    <field ID="STA_CHILD_ASSOC"/>
+    
+    
+    <field ID="STA_PARENT_ASSOC"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="REF_BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6B6B4ABF550D]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="REF_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6B6B4ABF950D]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field ID="AUTH_CHECK_CLASS"/>
+    
+    
+    <field ID="AUTH_CHECK_RELEVANT"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212103413 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103413 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_NODET">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_OBJ">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJ_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ROOT_NODE_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359550B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BUFFER_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_BUF_DISPATCHER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="MAPPER_CLASS">
+     
+     
+     <![CDATA[/BOBF/CL_DAC_TABLE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="SP_MAPPER_CLASS"/>
+    
+    
+    <field ID="SP_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CONST_INTERFACE">
+     
+     
+     <![CDATA[ZIF_ALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="ACCESS_CLASS"/>
+    
+    
+    <field ID="STATUS_CLASS"/>
+    
+    
+    <field ID="DERIVATOR_CLASS"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CLEANUP_MODE">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ENQUEUE_SCOPE">
+     
+     
+     <![CDATA[2]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJCAT">
+     
+     
+     <![CDATA[0]]>
+     
+    
+    </field>
+    
+    
+    <field ID="PROXY_INCOMPLETE"/>
+    
+    
+    <field ID="PROXY_CHECKSUM"/>
+    
+    
+    <field ID="PROXY_TIME"/>
+    
+    
+    <field ID="GENIL_ENABLED"/>
+    
+    
+    <field ID="GENIL_COMP_NAME"/>
+    
+    
+    <field ID="GENIL_PREFIX"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHECK_SERVICES">
+     
+     
+     <![CDATA[X]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHK_SERV_ASSOC">
+     
+     
+     <![CDATA[N]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHK_SERV_ACTION">
+     
+     
+     <![CDATA[N]]>
+     
+    
+    </field>
+    
+    
+    <field ID="FINAL"/>
+    
+    
+    <field ID="EXTENDIBLE"/>
+    
+    
+    <field ID="ABSTRACT"/>
+    
+    
+    <field ID="NAMESPACE"/>
+    
+    
+    <field ID="PREFIX"/>
+    
+    
+    <field ID="TD_CONTAINER"/>
+    
+    
+    <field ID="AUTH_CHECK_RELEVANT"/>
+    
+    
+    <field ID="ES_RELEVANT"/>
+    
+    
+    <field ID="ES_TEMPLATE"/>
+    
+    
+    <field ID="ES_DATA_EXTRACTOR_CLASS"/>
+    
+    
+    <field ID="LAST_CI_RELEVANT_CHANGE"/>
+    
+    
+    <field ID="LAST_CI_GENERATION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212102731 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="LAST_CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="LAST_CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103704 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_OBJT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="LANGU">
+     
+     
+     <![CDATA[E]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="OBJ_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359350B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="DESCRIPTION">
+     
+     
+     <![CDATA[Alice]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_RTW">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/VAL_CONF">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/VAL_LIST">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/VAL_LISTT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/VAL_NET">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_PROPTY">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_ALTKEY">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_ALTKET">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_QUERY">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_QUERYT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_ASSOCB">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+   
+   <row>
+    
+    
+    <field/>
+    
+    
+    <field ID="NAME">
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </field>
+    
+    
+    <field ID="EXTENSION"/>
+    
+    
+    <field ID="VERSION"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOCB_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE863F436D1519]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="BO_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE6374B359150B]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ASSOC_KEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE83759B7D3517]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ATTRIBUTE_CAT">
+     
+     
+     <![CDATA[0]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="ATTRIBUTE">
+     
+     
+     <![CDATA[ALICE_KEY]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="FROM_BINDING_CAT">
+     
+     
+     <![CDATA[7]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="FROM_BINDING">
+     
+     
+     <![CDATA[KEY]]>
+     
+    
+    </field>
+    
+    
+    <field ID="TO_BINDING_CAT"/>
+    
+    
+    <field ID="TO_BINDING"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="SIGN">
+     
+     
+     <![CDATA[EQ]]>
+     
+    
+    </field>
+    
+    
+    <field ID="CONST_INTERFACE"/>
+    
+    
+    <field ID="DATA_ACCESS_RELE"/>
+    
+    
+    <field/>
+    
+    
+    <field ID="ALTKEY">
+     
+     
+     <![CDATA[000C292422631ED5B4AE7359E632750E]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CREATE_TIME">
+     
+     
+     <![CDATA[20160212103524 ]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_USER">
+     
+     
+     <![CDATA[DEVELOPER]]>
+     
+    
+    </field>
+    
+    
+    <field/>
+    
+    
+    <field ID="CHANGE_TIME">
+     
+     
+     <![CDATA[20160212103702 ]]>
+     
+    
+    </field>
+    
+   
+   </row>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_PRXPTY">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/STA_SCHEMA">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/STA_SCHEMT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/STA_DERIV">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/STA_DERIVT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/STA_VAR">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/STA_VART">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_VSET">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_VSETT">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_RTW_A">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_CODE_L">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_GEN_IN">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_DISEL">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_FINORD">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_SUBSCR">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/ACF_MAP">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/AUTH_OBJ">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+  
+  <table ID="/BOBF/OBM_AK_FLD">
+   
+   
+   <key>
+    
+    
+    <NAME>
+     
+     
+     <![CDATA[ZALICE]]>
+     
+    
+    </NAME>
+    
+    
+    <EXTENSION>
+     
+     
+     <![CDATA[ 00000]]>
+     
+    
+    </EXTENSION>
+    
+   
+   </key>
+   
+  
+  </table>
+  
+ 
+ </transport>
+ 
+ 
+
+</BOBF>
