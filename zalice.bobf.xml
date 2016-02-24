@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v0.2-alpha">
- <#BOBF#ACT_CONF>
+ <_-BOBF_-ACT_CONF>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -196,8 +196,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#ACT_CONF>
- <#BOBF#ACT_LIST>
+ </_-BOBF_-ACT_CONF>
+ <_-BOBF_-ACT_LIST>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -753,8 +753,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#ACT_LIST>
- <#BOBF#ACT_LISTT>
+ </_-BOBF_-ACT_LIST>
+ <_-BOBF_-ACT_LISTT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -826,8 +826,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#ACT_LISTT>
- <#BOBF#DET_CONF>
+ </_-BOBF_-ACT_LISTT>
+ <_-BOBF_-DET_CONF>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -939,8 +939,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#DET_CONF>
- <#BOBF#DET_LIST>
+ </_-BOBF_-DET_CONF>
+ <_-BOBF_-DET_LIST>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -1124,8 +1124,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#DET_LIST>
- <#BOBF#DET_LISTT>
+ </_-BOBF_-DET_LIST>
+ <_-BOBF_-DET_LISTT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -1197,8 +1197,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#DET_LISTT>
- <#BOBF#DET_NET>
+ </_-BOBF_-DET_LISTT>
+ <_-BOBF_-DET_NET>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -1302,8 +1302,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#DET_NET>
- <#BOBF#OBM_ASSOC>
+ </_-BOBF_-DET_NET>
+ <_-BOBF_-OBM_ASSOC>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -1808,8 +1808,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_ASSOC>
- <#BOBF#OBM_ASSOCC>
+ </_-BOBF_-OBM_ASSOC>
+ <_-BOBF_-OBM_ASSOCC>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -1913,8 +1913,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_ASSOCC>
- <#BOBF#OBM_ASSOCT>
+ </_-BOBF_-OBM_ASSOCC>
+ <_-BOBF_-OBM_ASSOCT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -1986,8 +1986,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_ASSOCT>
- <#BOBF#OBM_BO>
+ </_-BOBF_-OBM_ASSOCT>
+ <_-BOBF_-OBM_BO>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -2141,8 +2141,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_BO>
- <#BOBF#OBM_GROUP>
+ </_-BOBF_-OBM_BO>
+ <_-BOBF_-OBM_GROUP>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -2286,8 +2286,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_GROUP>
- <#BOBF#OBM_GROUPC>
+ </_-BOBF_-OBM_GROUP>
+ <_-BOBF_-OBM_GROUPC>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -2399,8 +2399,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_GROUPC>
- <#BOBF#OBM_GROUPT>
+ </_-BOBF_-OBM_GROUPC>
+ <_-BOBF_-OBM_GROUPT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -2472,8 +2472,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_GROUPT>
- <#BOBF#OBM_MAP>
+ </_-BOBF_-OBM_GROUPT>
+ <_-BOBF_-OBM_MAP>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -2633,8 +2633,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_MAP>
- <#BOBF#OBM_NCAT>
+ </_-BOBF_-OBM_MAP>
+ <_-BOBF_-OBM_NCAT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -2770,8 +2770,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_NCAT>
- <#BOBF#OBM_NCATT>
+ </_-BOBF_-OBM_NCAT>
+ <_-BOBF_-OBM_NCATT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -2843,8 +2843,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_NCATT>
- <#BOBF#OBM_NODE>
+ </_-BOBF_-OBM_NCATT>
+ <_-BOBF_-OBM_NODE>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -3493,8 +3493,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_NODE>
- <#BOBF#OBM_NODET>
+ </_-BOBF_-OBM_NODE>
+ <_-BOBF_-OBM_NODET>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -3566,8 +3566,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_NODET>
- <#BOBF#OBM_OBJ>
+ </_-BOBF_-OBM_NODET>
+ <_-BOBF_-OBM_OBJ>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -3982,8 +3982,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_OBJ>
- <#BOBF#OBM_OBJT>
+ </_-BOBF_-OBM_OBJ>
+ <_-BOBF_-OBM_OBJT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -4065,8 +4065,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_OBJT>
- <#BOBF#OBM_RTW>
+ </_-BOBF_-OBM_OBJT>
+ <_-BOBF_-OBM_RTW>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -4266,8 +4266,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_RTW>
- <#BOBF#VAL_CONF>
+ </_-BOBF_-OBM_RTW>
+ <_-BOBF_-VAL_CONF>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -4379,8 +4379,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#VAL_CONF>
- <#BOBF#VAL_LIST>
+ </_-BOBF_-VAL_CONF>
+ <_-BOBF_-VAL_LIST>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -4564,8 +4564,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#VAL_LIST>
- <#BOBF#VAL_LISTT>
+ </_-BOBF_-VAL_LIST>
+ <_-BOBF_-VAL_LISTT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -4637,8 +4637,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#VAL_LISTT>
- <#BOBF#VAL_NET>
+ </_-BOBF_-VAL_LISTT>
+ <_-BOBF_-VAL_NET>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -4742,8 +4742,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#VAL_NET>
- <#BOBF#OBM_PROPTY>
+ </_-BOBF_-VAL_NET>
+ <_-BOBF_-OBM_PROPTY>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -4879,8 +4879,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_PROPTY>
- <#BOBF#OBM_ALTKEY>
+ </_-BOBF_-OBM_PROPTY>
+ <_-BOBF_-OBM_ALTKEY>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5088,8 +5088,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_ALTKEY>
- <#BOBF#OBM_ALTKET>
+ </_-BOBF_-OBM_ALTKEY>
+ <_-BOBF_-OBM_ALTKET>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5161,8 +5161,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_ALTKET>
- <#BOBF#OBM_QUERY>
+ </_-BOBF_-OBM_ALTKET>
+ <_-BOBF_-OBM_QUERY>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5378,8 +5378,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_QUERY>
- <#BOBF#OBM_QUERYT>
+ </_-BOBF_-OBM_QUERY>
+ <_-BOBF_-OBM_QUERYT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5451,8 +5451,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_QUERYT>
- <#BOBF#OBM_ASSOCB>
+ </_-BOBF_-OBM_QUERYT>
+ <_-BOBF_-OBM_ASSOCB>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5628,8 +5628,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_ASSOCB>
- <#BOBF#OBM_PRXPTY>
+ </_-BOBF_-OBM_ASSOCB>
+ <_-BOBF_-OBM_PRXPTY>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5773,8 +5773,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_PRXPTY>
- <#BOBF#STA_SCHEMA>
+ </_-BOBF_-OBM_PRXPTY>
+ <_-BOBF_-STA_SCHEMA>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5886,8 +5886,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#STA_SCHEMA>
- <#BOBF#STA_SCHEMT>
+ </_-BOBF_-STA_SCHEMA>
+ <_-BOBF_-STA_SCHEMT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -5959,8 +5959,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#STA_SCHEMT>
- <#BOBF#STA_DERIV>
+ </_-BOBF_-STA_SCHEMT>
+ <_-BOBF_-STA_DERIV>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6104,8 +6104,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#STA_DERIV>
- <#BOBF#STA_DERIVT>
+ </_-BOBF_-STA_DERIV>
+ <_-BOBF_-STA_DERIVT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6177,8 +6177,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#STA_DERIVT>
- <#BOBF#STA_VAR>
+ </_-BOBF_-STA_DERIVT>
+ <_-BOBF_-STA_VAR>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6306,8 +6306,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#STA_VAR>
- <#BOBF#STA_VART>
+ </_-BOBF_-STA_VAR>
+ <_-BOBF_-STA_VART>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6379,8 +6379,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#STA_VART>
- <#BOBF#OBM_VSET>
+ </_-BOBF_-STA_VART>
+ <_-BOBF_-OBM_VSET>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6556,8 +6556,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_VSET>
- <#BOBF#OBM_VSETT>
+ </_-BOBF_-OBM_VSET>
+ <_-BOBF_-OBM_VSETT>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6629,8 +6629,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_VSETT>
- <#BOBF#OBM_RTW_A>
+ </_-BOBF_-OBM_VSETT>
+ <_-BOBF_-OBM_RTW_A>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6750,8 +6750,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_RTW_A>
- <#BOBF#OBM_CODE_L>
+ </_-BOBF_-OBM_RTW_A>
+ <_-BOBF_-OBM_CODE_L>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6855,8 +6855,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_CODE_L>
- <#BOBF#OBM_GEN_IN>
+ </_-BOBF_-OBM_CODE_L>
+ <_-BOBF_-OBM_GEN_IN>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -6992,8 +6992,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_GEN_IN>
- <#BOBF#OBM_DISEL>
+ </_-BOBF_-OBM_GEN_IN>
+ <_-BOBF_-OBM_DISEL>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -7097,8 +7097,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_DISEL>
- <#BOBF#OBM_FINORD>
+ </_-BOBF_-OBM_DISEL>
+ <_-BOBF_-OBM_FINORD>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -7202,8 +7202,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_FINORD>
- <#BOBF#OBM_SUBSCR>
+ </_-BOBF_-OBM_FINORD>
+ <_-BOBF_-OBM_SUBSCR>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -7299,8 +7299,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_SUBSCR>
- <#BOBF#ACF_MAP>
+ </_-BOBF_-OBM_SUBSCR>
+ <_-BOBF_-ACF_MAP>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -7436,8 +7436,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#ACF_MAP>
- <#BOBF#AUTH_OBJ>
+ </_-BOBF_-ACF_MAP>
+ <_-BOBF_-AUTH_OBJ>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -7541,8 +7541,8 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#AUTH_OBJ>
- <#BOBF#OBM_AK_FLD>
+ </_-BOBF_-AUTH_OBJ>
+ <_-BOBF_-OBM_AK_FLD>
   <FieldCatalog>
    <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
@@ -7670,5 +7670,5 @@
     </asx:values>
    </asx:abap>
   </TableContent>
- </#BOBF#OBM_AK_FLD>
+ </_-BOBF_-OBM_AK_FLD>
 </abapGit>
